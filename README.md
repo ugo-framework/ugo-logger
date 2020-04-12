@@ -1,3 +1,7 @@
+<div align="center">
+    <img height="320" src="./assets/ugo-logger.png" />
+</div>
+
 # UGO Logger
 
 A powerful printing library to print to stdout.
